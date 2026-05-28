@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://degcgufptalp5"
-path="res://.godot/imported/fa-brands-400.woff2-0e7e076f104b15261842d4fac25630ff.fontdata"
+path="res://.godot/imported/fa-brands-400.woff2-01946f939132baa0e37dbdeac9412933.fontdata"
 
 [deps]
 
-source_file="res://submodules/Godot-FontAwesome/addons/fontawesome/fonts/fa-brands-400.woff2"
-dest_files=["res://.godot/imported/fa-brands-400.woff2-0e7e076f104b15261842d4fac25630ff.fontdata"]
+source_file="res://addons/fontawesome/fonts/fa-brands-400.woff2"
+dest_files=["res://.godot/imported/fa-brands-400.woff2-01946f939132baa0e37dbdeac9412933.fontdata"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://7yit7wn2fwge"
-path="res://.godot/imported/fa-regular-400.woff2-99ca62d456838c92a975f372acad419a.fontdata"
+path="res://.godot/imported/fa-regular-400.woff2-bb494eebb9050a2fb4b1382e97f43781.fontdata"
 
 [deps]
 
-source_file="res://submodules/Godot-FontAwesome/addons/fontawesome/fonts/fa-regular-400.woff2"
-dest_files=["res://.godot/imported/fa-regular-400.woff2-99ca62d456838c92a975f372acad419a.fontdata"]
+source_file="res://addons/fontawesome/fonts/fa-regular-400.woff2"
+dest_files=["res://.godot/imported/fa-regular-400.woff2-bb494eebb9050a2fb4b1382e97f43781.fontdata"]
 
 [params]
 

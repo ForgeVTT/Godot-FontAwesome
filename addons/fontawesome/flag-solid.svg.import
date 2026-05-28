@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cccvh4mtyow6u"
-path="res://.godot/imported/flag-solid.svg-7a55fc83dd40e81faea6b9fd0a51ae58.ctex"
+path="res://.godot/imported/flag-solid.svg-f443982cac7d006eea43c772e2428bae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://submodules/Godot-FontAwesome/addons/fontawesome/flag-solid.svg"
-dest_files=["res://.godot/imported/flag-solid.svg-7a55fc83dd40e81faea6b9fd0a51ae58.ctex"]
+source_file="res://addons/fontawesome/flag-solid.svg"
+dest_files=["res://.godot/imported/flag-solid.svg-f443982cac7d006eea43c772e2428bae.ctex"]
 
 [params]
 
